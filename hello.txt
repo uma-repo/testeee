@@ -1,3 +1,4 @@
-print("hello world")
-print("hello uma")
-print("hello tejassss")
+hello
+my name is avyukt 
+from hyderabad
+
